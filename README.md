@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/badge/-LICENSE%3A%20MIT-yellowgreen?style=for-the-badge&logo=opensourceinitiative&labelColor=black&logoColor=lime)](https://keyboard-integration.vercel.app/LICENSE.txt)
 ### MIT License
 
 Copyright (c) 2021 Lord-Xenon
